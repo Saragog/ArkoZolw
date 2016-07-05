@@ -1,0 +1,18 @@
+ustaw 30 30 30
+naprzod 30
+podnies
+naprzod 30
+opusc
+naprzod 30
+obrot 120
+naprzod 30
+podnies
+naprzod 30
+opusc
+naprzod 30
+obrot 120
+naprzod 30
+podnies
+naprzod 30
+opusc
+naprzod 30
